@@ -1,2 +1,4 @@
 # hello-world
-My first
+My first github repos;
+
+Just following the steps
